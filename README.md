@@ -1,2 +1,1 @@
-# trex
-Trex game.
+
